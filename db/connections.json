@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6080d5879ac58f6300a388e7"
+  },
+  "topic": "Bicycle Touring",
+  "name": "Two Wheel Thrill",
+  "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt metus neque, sodales tincidunt ipsum pellentesque vitae. Phasellus finibus aliquet metus vitae fringilla",
+  "location": "Woodward 1",
+  "date": "2021-04-30",
+  "startTime": "21:46",
+  "endTime": "22:46",
+  "image": "https://thumbs.dreamstime.com/z/cartoon-cyclist-vector-illustration-37069887.jpg",
+  "host": {
+    "$oid": "6080c7a4d227921bf451330e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:46:47.224Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:46:47.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080d5da9ac58f6300a388e8"
+  },
+  "topic": "Bicycle Touring",
+  "name": "Imperfect Peddlers",
+  "details": "Cras maximus enim eu nunc mattis porttitor. Vivamus luctus enim sed fermentum feugiat. Maecenas fermentum pulvinar arcu nec sollicitudin. Donec faucibus neque sit amet lorem pharetra auctor",
+  "location": "Woodward 2",
+  "date": "2021-05-02",
+  "startTime": "01:47",
+  "endTime": "02:47",
+  "image": "https://thumbs.dreamstime.com/z/business-team-group-riding-tandem-bike-together-concept-vector-illustration-sport-race-teamwork-flat-cartoon-style-169849137.jpg",
+  "host": {
+    "$oid": "6080c7a4d227921bf451330e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:48:10.841Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:48:10.841Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080d6389ac58f6300a388e9"
+  },
+  "topic": "Camping",
+  "name": "Campfire Crew",
+  "details": "Cras nec posuere nisi. Mauris pretium felis turpis, sit amet viverra ligula pellentesque feugiat. Proin venenatis magna quis semper aliquam.",
+  "location": "Woodward 4",
+  "date": "2021-04-28",
+  "startTime": "00:49",
+  "endTime": "01:49",
+  "image": "https://c7.alamy.com/comp/E59K2F/group-of-people-sitting-around-camp-fire-mexico-E59K2F.jpg",
+  "host": {
+    "$oid": "6080c7a4d227921bf451330e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:49:44.500Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:49:44.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080d6cc9ac58f6300a388ea"
+  },
+  "topic": "Bicycle Touring",
+  "name": "Pedal Storm Bringers",
+  "details": "Cras vel vulputate nisl, eget aliquet libero. Ut pulvinar lacinia massa quis luctus. Sed nec massa ac leo posuere blandit in sed ante. Donec dictum elit mollis egestas placerat.",
+  "location": "Woodward 3",
+  "date": "2021-05-14",
+  "startTime": "08:55",
+  "endTime": "09:55",
+  "image": "https://thumbs.dreamstime.com/z/cycling-race-front-view-neon-illustration-vector-86861004.jpg",
+  "host": {
+    "$oid": "6080c83382d78a38f090205e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:52:12.257Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:52:12.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080d7249ac58f6300a388eb"
+  },
+  "topic": "Camping",
+  "name": "Barefoot Battalion",
+  "details": "Phasellus convallis, metus vitae mollis euismod, purus augue viverra tellus, at fermentum turpis turpis sed ligula. Nullam tempus interdum dolor, eu accumsan ipsum viverra facilisis.",
+  "location": "Woodward 5",
+  "date": "2021-06-18",
+  "startTime": "23:00",
+  "endTime": "00:00",
+  "image": "https://t3.ftcdn.net/jpg/02/19/55/54/240_F_219555445_eKS5ZdDUN64vOmnZLWuDKIGFEx8opmgK.jpg",
+  "host": {
+    "$oid": "6080c83382d78a38f090205e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:53:40.750Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:53:40.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080d7739ac58f6300a388ec"
+  },
+  "topic": "Camping",
+  "name": "Burnt Marshmallows",
+  "details": "Ut mattis lacus in nulla elementum, non semper mauris bibendum. In hac habitasse platea dictumst. Quisque ornare justo eget rhoncus feugiat.",
+  "location": "Woodward 6",
+  "date": "2021-07-23",
+  "startTime": "02:00",
+  "endTime": "03:00",
+  "image": "https://t4.ftcdn.net/jpg/01/64/29/59/240_F_164295991_riocsWZidvQgXz4vWeU3YvYOj1b7bF4I.jpg",
+  "host": {
+    "$oid": "6080c83382d78a38f090205e"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T01:54:59.060Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T01:54:59.060Z"
+  },
+  "__v": 0
+}]
